@@ -28,11 +28,7 @@ pip install -r .\requirements.txt
 ### Select venv Python Kernel in the notebooks
 
 ## Dataset
-
-We have chosen the **Air Quality dataset**:
-
-- **Source**: [Air Quality Data](https://catalog.data.gov/dataset/air-quality)
-- **Attributes**: Includes both numerical and categorical data related to air pollution measurements in New York.
+We have chosen the **Diamond Dataset**:
 
 ## Objectives
 

@@ -1,14 +1,14 @@
-# Air Quality Analysis - Data Science Project
+# Diamanten - Data Science Projekt
 
-## Project Overview
+## Projektübersicht
 
-This project focuses on analyzing air quality data using Big Data methods and Machine Learning techniques. The goal is to explore patterns, predict pollution levels, and apply clustering methods to identify trends in air quality.
+Dieses Projekt konzentriert sich auf die Analyse von Diamantendaten mithilfe von Big-Data-Methoden und Machine-Learning-Techniken. Ziel ist es, Muster zu erkennen, Verschmutzungswerte vorherzusagen und Clustering-Methoden anzuwenden, um Trends in dem Datensatz zu identifizieren.
 
-## Setup 
-### Install Jupyter VS Code Extensions
+## Einrichtung
+### Installation der Jupyter VS Code Erweiterungen
 
 ### Virtualenv
-Execute the following commands in the root directory of the project
+Führen Sie die folgenden Befehle im Stammverzeichnis des Projekts aus:
 ```bash
 pip install virtualenv
 ```
@@ -32,22 +32,21 @@ We have chosen the **Diamond Dataset**:
 
 ## Objectives
 
-### Data Preparation:
-- Clean and preprocess the dataset to handle missing values and inconsistencies.
+### Datenvorbereitung:
+- Bereinigung und Vorverarbeitung des Datensatzes, um fehlende Werte und Inkonsistenzen zu behandeln.
 
-### Supervised Learning:
-- Implement a classification model to categorize air quality levels.
-- Develop a regression model to predict pollutant concentrations.
+### Überwachtes Lernen:
+- Implementierung eines Klassifikationsmodells zur Kategorisierung der Diamanten.
+- Entwicklung eines Regressionsmodells zur Vorhersage von Diamantenpreisen
 
-### Unsupervised Learning:
-- Apply clustering algorithms to identify patterns in pollution data.
+### Unüberwachtes Lernen:
+- AAnwendung von Clustering-Algorithmen, um Muster in den Diamantendaten zu identifizieren.
 
-### Visualization:
-- Use appropriate visualizations to present insights from the dataset.
+### Visualisierung:
+- UVerwendung geeigneter Visualisierungen, um Erkenntnisse aus dem Datensatz darzustellen
 
-## Implementation
-
-The analysis will be conducted using **Python** with **Jupyter Notebooks**
+## Umsetzung
+Die Analyse wird mit **Python** und **Jupyter Notebooks** durchgeführt.
 
 
 ## Authors
